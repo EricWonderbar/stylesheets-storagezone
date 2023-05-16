@@ -1,0 +1,7 @@
+.email-paragraph {
+  font-family: "Open Sans", sans-serif;
+}
+
+.td {
+  padding: 5px;
+}
